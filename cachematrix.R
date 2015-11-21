@@ -1,5 +1,5 @@
-## the below functins will create a copy  of marix in cache
-## and inverts the input matix and replaces the cache with the inveted matrix. 
+## Below functions will create a copy  of marix in cache,
+## inverts the input matix and replaces the cache with the inveted matrix.
 ## functions do
 
 ## This function creates a special "matrix" object that can cache its inverse
